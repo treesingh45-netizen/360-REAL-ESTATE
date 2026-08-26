@@ -1,0 +1,6 @@
+{
+  "name": "360 Real Estate & Builder's",
+  "description": "Premier Lahore-based real estate & builder agency specializing in apartments, flats, commercial property, sales, rentals, and investment opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
